@@ -1,0 +1,12 @@
+.parent, .parent2{
+    display: flex;
+    background: yellow;
+    width: 80%;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+}
+
+.parent2{
+    background: green;
+}
